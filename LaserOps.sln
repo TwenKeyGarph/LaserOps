@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BDFC4EF3-C3F3-467B-B4E6-7B43F6428E4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BDFC4EF3-C3F3-467B-B4E6-7B43F6428E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkLibrary", "NetworkLibrary\NetworkLibrary.csproj", "{9B8C7199-4B16-451D-AF7F-81AC2EB9F5E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BDFC4EF3-C3F3-467B-B4E6-7B43F6428E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDFC4EF3-C3F3-467B-B4E6-7B43F6428E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDFC4EF3-C3F3-467B-B4E6-7B43F6428E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8C7199-4B16-451D-AF7F-81AC2EB9F5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8C7199-4B16-451D-AF7F-81AC2EB9F5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8C7199-4B16-451D-AF7F-81AC2EB9F5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8C7199-4B16-451D-AF7F-81AC2EB9F5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
